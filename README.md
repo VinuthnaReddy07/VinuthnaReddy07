@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VinuthnaReddy07
 - 👀 I’m interested in building scalable AI and ML solutions on AWS
-- 🌱 I’m currently learning Gen AI on AWS or On-premises and MLOps
+- 🌱 I’m currently learning Gen AI on AWS,On-premises and MLOps
 - 💞️ I’m looking to collaborate on challenging projects on AI and ML
 - 📫 How to reach me vinuthnareddymallu@gmailcom
 - 😄 Pronouns: she/her
