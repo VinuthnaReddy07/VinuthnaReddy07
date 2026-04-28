@@ -10,7 +10,6 @@
 
 <a href="mailto:malluvinuthnareddy@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff4d6d?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/malluvinuthnareddy"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/VinuthnaReddy07"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://remarkable-custard-f1b904.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
@@ -40,12 +39,12 @@ Automated deployment pipeline → **zero-downtime releases**
 
 ## ⚙️ Skills
 
-**Languages:** Python, SQL  
-**Frameworks:** LangChain, LangGraph, FastAPI  
-**Cloud:** AWS (Compute, Storage, Serverless)  
-**AI/ML:** RAG, LLMs, NLP, Prompt Engineering  
-**Tools:** Docker, Git, CI/CD  
-
+- **Programming/Frameworks:** Python, SQL  
+- **Frameworks:** LangChain, LangGraph, FastAPI  
+- **AWS Cloud:** Compute, Storage, Databases, Networking, Security, Serverless, Monitoring  
+- **AI/ML:** RAG, LLMs, Embeddings, Prompt Engineering, NLP, Feature Engineering, Multi-Agent Systems, MLOps  
+- **DevOps & Tools:** Docker, CI/CD, Git, Jupyter Notebook  
+- **Soft Skills:** Systems Thinking, Technical Communication, Adaptability to Emerging Technologies
 ---
 
 ## 📜 Certifications
