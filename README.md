@@ -10,13 +10,13 @@
 
 <a href="mailto:malluvinuthnareddy@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff4d6d?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/malluvinuthnareddy"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://remarkable-custard-f1b904.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://preview--vinuthnareddymallu-portfolio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
 - Building **LLM applications, RAG systems, and AI pipelines**
 - Working with **Amazon Bedrock, SageMaker & AWS Cloud**
@@ -24,39 +24,58 @@
 
 ---
 
-## 🚀 Projects
+# 🚀 Projects
 
-**🔹 Multi-Agent AI System**  
-Built 5-agent system using Bedrock + RAG → **↑30% accuracy, ↓60% effort**
+## 🔹 Enterprise Role-Based Access Control RAG System
 
-**🔹 MLOps Pipeline**  
-End-to-end ML pipeline using SageMaker → **↑40% reproducibility**
+- Built a secure **RBAC-enabled RAG system** using ChromaDB and Ollama, improving role-based document retrieval accuracy by **~35%**
+- Implemented **JWT authentication** and fine-grained access control for secure enterprise document access
+- Developed a full-stack application using **FastAPI + React**, reducing manual document search effort by **~50%**
 
-**🔹 CI/CD for ECS Fargate**  
-Automated deployment pipeline → **zero-downtime releases**
+**Tech Stack:** FastAPI, React, TypeScript, ChromaDB, Ollama, JWT, SQLAlchemy, sentence-transformers, OAuth2, REST API
 
 ---
 
-## ⚙️ Skills
+## 🔹 Multi-Agent Generative AI System for Coffee Shop Automation
 
-- **Programming/Frameworks:** Python, SQL  
-- **Frameworks:** LangChain, LangGraph, FastAPI  
-- **AWS Cloud:** Compute, Storage, Databases, Networking, Security, Serverless, Monitoring  
-- **AI/ML:** RAG, LLMs, Embeddings, Prompt Engineering, NLP, Feature Engineering, Multi-Agent Systems, MLOps  
-- **DevOps & Tools:** Docker, CI/CD, Git, Jupyter Notebook  
+- Built a **multi-agent AI system** using Amazon Bedrock with **5 domain agents** and supervisor orchestration
+- Implemented **RAG pipelines** using Amazon S3 and OpenSearch Serverless, improving response accuracy by **~30%**
+- Integrated DynamoDB and Aurora for real-time workflows, reducing manual effort by **~60%**
+
+**Tech Stack:** Amazon Bedrock, DynamoDB, Aurora, S3, OpenSearch Serverless, AWS Lambda, Streamlit, Strands SDK, RAG
+
+---
+
+## 🔹 CI/CD Pipeline for ECS Fargate using CodePipeline & CodeDeploy
+
+- Built an automated **CI/CD pipeline** using AWS CodePipeline for containerized deployments
+- Configured AWS CodeBuild to build Docker images and push them to Amazon ECR
+- Deployed applications on Amazon ECS with AWS Fargate using **blue/green deployment**, enabling zero-downtime releases
+
+**Tech Stack:** AWS CodePipeline, CodeBuild, CodeDeploy, ECS (Fargate), ECR, Docker, Node.js
+
+---
+
+# ⚙️ Skills
+
+- **Programming:** Python, SQL, TypeScript
+- **Frameworks:** FastAPI, React, LangChain, LangGraph
+- **AWS Cloud:** Bedrock, SageMaker, ECS, Lambda, S3, DynamoDB, Aurora, OpenSearch
+- **AI/ML:** RAG, LLMs, Embeddings, Prompt Engineering, NLP, Feature Engineering, Multi-Agent Systems, MLOps
+- **DevOps & Tools:** Docker, CI/CD, Git, Jupyter Notebook
 - **Soft Skills:** Systems Thinking, Technical Communication, Adaptability to Emerging Technologies
----
-
-## 📜 Certifications
-
-- AWS Certified AI Practitioner *(May 2026)*  
-- AWS Certified ML Associate *(May 2026)*  
-- Kaggle Python Certification  
-- HackerRank SQL Certification  
 
 ---
 
-## 📊 GitHub Analytics
+# 📜 Certifications
+
+- AWS Certified AI Practitioner
+- AWS Certified Machine Learning Associate *(In Progress)*
+- Python Certification by Kaggle
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=VinuthnaReddy07&show_icons=true&theme=tokyonight&hide_border=true"/>
