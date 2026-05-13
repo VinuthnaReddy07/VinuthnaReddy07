@@ -58,8 +58,8 @@
 
 # ⚙️ Skills
 
-- **Programming:** Python, SQL, TypeScript
-- **Frameworks:** FastAPI, React, LangChain, LangGraph
+- **Programming:** Python, SQL
+- **Frameworks:** FastAPI, LangChain, NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow
 - **AWS Cloud:** Bedrock, SageMaker, ECS, Lambda, S3, DynamoDB, Aurora, OpenSearch
 - **AI/ML:** RAG, LLMs, Embeddings, Prompt Engineering, NLP, Feature Engineering, Multi-Agent Systems, MLOps
 - **DevOps & Tools:** Docker, CI/CD, Git, Jupyter Notebook
