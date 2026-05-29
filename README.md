@@ -18,19 +18,20 @@
 
 # 🧠 About Me
 
-- Building **LLM applications, RAG systems, and AI pipelines**
-- Working with **Amazon Bedrock, SageMaker & AWS Cloud**
-- Focused on **scalable, production-ready AI systems**
+- Aspiring **AI Engineer** building production-grade **LLM applications, RAG systems, and agentic AI workflows**
+- Experienced with **Python, FastAPI, LangChain, Amazon Bedrock, and AWS Cloud**
+- Focused on developing **secure, scalable, and real-world AI systems**
 
 ---
 
+
 # 🚀 Projects
 
-## 🔹 Enterprise Role-Based Access Control RAG System
+## 🔹 Enterprise Role-Based Access Control (RBAC) RAG System for Secure Document Intelligence
 
-- Built a secure **RBAC-enabled RAG system** using ChromaDB and Ollama, improving role-based document retrieval accuracy by **~35%**
-- Implemented **JWT authentication** and fine-grained access control for secure enterprise document access
-- Developed a full-stack application using **FastAPI + React**, reducing manual document search effort by **~50%**
+- Delivered a full-stack document intelligence application with React + TypeScript frontend and FastAPI backend, enforcing department-level access control
+- Engineered role-based metadata filtering in ChromaDB with HuggingFace Embeddings (all-MiniLM-L6-v2) and Ollama (Phi3:mini) for local inference, enabling secure department-scoped document retrieval across Admin, HR, Finance, and Engineering roles
+- Secured the system with JWT authentication and OAuth2 fine-grained access control for protected enterprise document access
 
 **Tech Stack:** FastAPI, React, TypeScript, ChromaDB, Ollama, JWT, SQLAlchemy, sentence-transformers, OAuth2, REST API
 
@@ -38,35 +39,35 @@
 
 ## 🔹 Multi-Agent Generative AI System for Coffee Shop Automation
 
-- Built a **multi-agent AI system** using Amazon Bedrock with **5 domain agents** and supervisor orchestration
-- Implemented **RAG pipelines** using Amazon S3 and OpenSearch Serverless, improving response accuracy by **~30%**
-- Integrated DynamoDB and Aurora for real-time workflows, reducing manual effort by **~60%**
+- Deployed a multi-agent collaboration system on Amazon Bedrock using a Strands SDK supervisor agent orchestrating specialised domain agents for Orders, Menu, Payments, Stores, and Promotions
+- Integrated Amazon DynamoDB for session persistence and order management, Amazon Aurora MySQL for store data, and AWS Lambda for promotions API workflows
+- Implemented Retrieval-Augmented Generation (RAG) using Amazon S3 and OpenSearch Serverless for contextual responses
 
-**Tech Stack:** Amazon Bedrock, DynamoDB, Aurora, S3, OpenSearch Serverless, AWS Lambda, Streamlit, Strands SDK, RAG
+**Tech Stack:** Amazon Bedrock, DynamoDB, Aurora, S3, OpenSearch Serverless, AWS Lambda, Strands SDK, RAG
 
 ---
 
-## 🔹 CI/CD Pipeline for ECS Fargate using CodePipeline & CodeDeploy
+## 🔹 CI/CD Pipeline for ECS Fargate using CodePipeline and CodeDeploy
 
-- Built an automated **CI/CD pipeline** using AWS CodePipeline for containerized deployments
-- Configured AWS CodeBuild to build Docker images and push them to Amazon ECR
-- Deployed applications on Amazon ECS with AWS Fargate using **blue/green deployment**, enabling zero-downtime releases
+- Built an end-to-end CI/CD pipeline using AWS CodePipeline with source control via CodeCommit and automated Docker image builds using CodeBuild
+- Deployed a containerised Node.js application on Amazon ECS Fargate using blue/green deployments through CodeDeploy
+- Managed immutable container image storage and deployment workflows using Amazon ECR and Docker
 
 **Tech Stack:** AWS CodePipeline, CodeBuild, CodeDeploy, ECS (Fargate), ECR, Docker, Node.js
 
 ---
 
-# ⚙️ Skills
+# ⚙️ Technical Skills
 
 - **Programming:** Python, SQL
-- **Frameworks:** FastAPI, LangChain, NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow
-- **AWS Cloud:** Bedrock, SageMaker, ECS, Lambda, S3, DynamoDB, Aurora, OpenSearch
-- **AI/ML:** RAG, LLMs, Embeddings, Prompt Engineering, NLP, Feature Engineering, Multi-Agent Systems, MLOps
-- **DevOps & Tools:** Docker, CI/CD, Git, Jupyter Notebook
-- **Soft Skills:** Systems Thinking, Technical Communication, Adaptability to Emerging Technologies
+- **Frameworks/Libraries:** FastAPI, LangChain, HuggingFace Embeddings, sentence-transformers, Strands SDK
+- **AWS Cloud:** Bedrock, SageMaker, Lambda, ECS Fargate, S3, DynamoDB, Aurora, OpenSearch Serverless, CodePipeline, CodeBuild, CodeDeploy
+- **AI/ML:** RAG, LLMs, Embeddings, Prompt Engineering, Agent Evaluation, NLP, Text Processing, Multi-Agent Systems, MLOps
+- **Databases:** ChromaDB, DynamoDB, Aurora MySQL, PostgreSQL, OpenSearch Serverless
+- **DevOps & Tools:** Docker, CI/CD, Git, REST API (via FastAPI)
+- **Soft Skills:** Systems Thinking, Technical Communication, Adaptability to Emerging Technologies, Cross-functional Collaboration
 
 ---
-
 # 📜 Certifications
 
 - AWS Certified AI Practitioner
