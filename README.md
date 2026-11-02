@@ -23,24 +23,23 @@
 
 ---
 
-<h2 align="center">GITHUB ACTIVITY</h2>
+## GITHUB ACTIVITY
 
-<div align="center">
+<p align="center">
+  <img
+    src="./assets/contribution-stats.svg"
+    alt="Total contributions, current streak and longest streak"
+    width="100%"
+  />
+</p>
 
-<img width="100%" src="./assets/contribution-calendar.svg" alt="GitHub contribution calendar"/>
-
-<br/>
-
-<a href="https://github.com/VinuthnaReddy07">
-<img src="https://img.shields.io/badge/VIEW_GITHUB_ACTIVITY-650B42?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://github.com/VinuthnaReddy07?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-26091F?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
+<p align="center">
+  <img
+    src="./assets/contribution-calendar.svg"
+    alt="GitHub contribution calendar"
+    width="100%"
+  />
+</p>
 ---
 
 <h2 align="center">ABOUT ME</h2>
