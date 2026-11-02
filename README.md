@@ -1,11 +1,8 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050307,25:160817,55:350D32,80:641044,100:99005C&height=220&section=header&text=VINUTHNA%20REDDY%20MALLU&fontSize=38&fontColor=FFFFFF&fontAlignY=36&animation=twinkling&desc=GENERATIVE%20AI%20ENGINEER%20%7C%20AGENTIC%20AI%20%7C%20RAG&descSize=14&descAlignY=58&descColor=FF5CB8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050307,25:160817,55:350D32,80:641044,100:99005C&height=190&section=header&text=VINUTHNA%20REDDY%20MALLU&fontSize=38&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=GENERATIVE%20AI%20ENGINEER%20%7C%20AGENTIC%20AI%20%7C%20RAG&descSize=14&descAlignY=59&descColor=FF5CB8"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1800&pause=600&color=FF38A8&center=true&vCenter=true&width=700&lines=Building+Agentic+AI+Systems;Engineering+RAG+Applications;Exploring+LLMs+%26+Multi-Agent+Workflows;AWS+%7C+Python+%7C+Generative+AI;Turning+Ideas+Into+Working+Projects" />
-
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=1800&pause=600&color=FF38A8&center=true&vCenter=true&width=700&height=30&lines=Building+Agentic+AI+Systems;Engineering+RAG+Applications;Exploring+LLMs+%26+Multi-Agent+Workflows;AWS+%7C+Python+%7C+Generative+AI;Turning+Ideas+Into+Working+Projects"/>
 
 [![GitHub](https://img.shields.io/badge/GITHUB-09050D?style=for-the-badge&logo=github&logoColor=FF38A8)](https://github.com/VinuthnaReddy07)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-09050D?style=for-the-badge&logo=linkedin&logoColor=FF38A8)](https://linkedin.com/in/vinuthnareddymallu)
@@ -16,49 +13,42 @@
 
 ---
 
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050307,50:26051F,100:850044&height=170&section=header&text=VINUTHNA%20REDDY%20MALLU&fontSize=38&fontColor=FFFFFF&fontAlignY=45&animation=twinkling" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=1800&pause=500&color=FF1493&center=true&vCenter=true&width=650&height=35&lines=%3E+GENERATIVE+AI+ENGINEER;%3E+BUILDING+AGENTIC+AI+SYSTEMS;%3E+RAG+%7C+LLMs+%7C+AWS+%7C+PYTHON;%3E+CODE.+EXPERIMENT.+INNOVATE." />
-
-[![GitHub](https://img.shields.io/badge/GITHUB-09050D?style=for-the-badge&logo=github&logoColor=FF1493)](https://github.com/VinuthnaReddy07)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-09050D?style=for-the-badge&logo=linkedin&logoColor=FF1493)](https://linkedin.com/in/vinuthnareddymallu)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-09050D?style=for-the-badge&logo=firefox&logoColor=FF1493)](https://vinuthnareddymallu-portfolio.lovable.app/)
-
-</div>
-
----
-
-<h2 align="center">⌘ GITHUB ANALYTICS</h2>
+<h2 align="center">GITHUB ACTIVITY</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VinuthnaReddy07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=09050D&title_color=FF1493&icon_color=E00075&text_color=F5DCEB" width="49%" />
-
-<img src="https://streak-stats.demolab.com?user=VinuthnaReddy07&hide_border=true&background=09050D&ring=FF1493&fire=FF1493&currStreakLabel=FF1493&sideLabels=E00075&dates=9B8497&currStreakNum=FFFFFF&sideNums=FFFFFF" width="49%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VinuthnaReddy07&bg_color=09050D&color=F5DCEB&line=FF1493&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="96%" />
+<a href="https://github.com/VinuthnaReddy07">
+  <img src="https://github-readme-stats.vercel.app/api?username=VinuthnaReddy07&show_icons=true&hide_border=true&bg_color=09050D&title_color=FF38A8&icon_color=E00075&text_color=F5DCEB" height="165"/>
+</a>
+<a href="https://streak-stats.demolab.com/?user=VinuthnaReddy07">
+  <img src="https://streak-stats.demolab.com?user=VinuthnaReddy07&hide_border=true&background=09050D&ring=FF1493&fire=FF1493&currStreakLabel=FF1493&sideLabels=E00075&dates=9B8497&currStreakNum=FFFFFF&sideNums=FFFFFF" height="165"/>
+</a>
 
 <br/>
 
-<img src="https://ghchart.rshah.org/FF1493/VinuthnaReddy07" width="96%" alt="GitHub contribution calendar"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VinuthnaReddy07&bg_color=09050D&color=F5DCEB&line=FF1493&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="96%" alt="GitHub activity graph"/>
+
+<br/>
+
+<a href="https://github.com/VinuthnaReddy07">
+  <img src="https://ghchart.rshah.org/FF1493/VinuthnaReddy07" width="96%" alt="GitHub contribution calendar"/>
+</a>
 
 <br/><br/>
 
-[![Repositories](https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-380020?style=for-the-badge&logo=github&logoColor=FF1493)](https://github.com/VinuthnaReddy07?tab=repositories)
+[![Repositories](https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-380020?style=for-the-badge&logo=github&logoColor=FF38A8)](https://github.com/VinuthnaReddy07?tab=repositories)
 
 </div>
 
+---
 
+<h2 align="center">ABOUT ME</h2>
+
+I'm a Generative AI Engineer interested in building practical AI applications, agentic workflows and secure RAG systems. I work with Python, AWS, LLM frameworks and enterprise data platforms to turn AI concepts into working applications.
 
 ---
 
-<h2 align="center">◈ EXPERIENCE ◈</h2>
+<h2 align="center">EXPERIENCE</h2>
 
 ### AI Engineer — Ecom cent Technologies Private Limited
 
@@ -70,45 +60,45 @@
 
 ---
 
-<h2 align="center">◈ FEATURED PROJECTS ◈</h2>
+<h2 align="center">FEATURED PROJECTS</h2>
 
-### 01 / Multi-Agent Coffee Shop Automation
+### 01. Multi-Agent Coffee Shop Automation
 
 `AWS BEDROCK` · `STRANDS SDK` · `MCP` · `OPENSEARCH` · `DYNAMODB`
 
 Multi-agent architecture with a supervisor coordinating specialist agents for orders, menus, stores, offers and payments.
 
-[![VIEW PROJECT](https://img.shields.io/badge/↗_VIEW_PROJECT-3B082B?style=for-the-badge&logo=github&logoColor=FF38A8)](https://github.com/VinuthnaReddy07/Multi-Agent-Generative-AI-System-on-AWS)
+[![VIEW PROJECT](https://img.shields.io/badge/VIEW_PROJECT-3B082B?style=for-the-badge&logo=github&logoColor=FF38A8)](https://github.com/VinuthnaReddy07/Multi-Agent-Generative-AI-System-on-AWS)
 
-### 02 / RBAC-RAG Secure Document Intelligence
+### 02. RBAC-RAG Secure Document Intelligence
 
 `PYTHON` · `FASTAPI` · `REACT` · `CHROMADB` · `OLLAMA`
 
 Secure document retrieval with role-based access, JWT authentication and metadata filtering.
 
-[![FIND PROJECT](https://img.shields.io/badge/↗_FIND_PROJECT-3B082B?style=for-the-badge&logo=github&logoColor=FF38A8)](https://github.com/VinuthnaReddy07?tab=repositories)
+[![VIEW REPOSITORIES](https://img.shields.io/badge/VIEW_REPOSITORIES-3B082B?style=for-the-badge&logo=github&logoColor=FF38A8)](https://github.com/VinuthnaReddy07?tab=repositories)
 
-### 03 / ECS Fargate CI/CD
+### 03. ECS Fargate CI/CD
 
 `DOCKER` · `AWS ECS` · `ECR` · `CODEPIPELINE`
 
 Automated container deployment using CI/CD and blue-green deployment.
 
-[![FIND PROJECT](https://img.shields.io/badge/↗_FIND_PROJECT-3B082B?style=for-the-badge&logo=github&logoColor=FF38A8)](https://github.com/VinuthnaReddy07?tab=repositories)
+[![VIEW REPOSITORIES](https://img.shields.io/badge/VIEW_REPOSITORIES-3B082B?style=for-the-badge&logo=github&logoColor=FF38A8)](https://github.com/VinuthnaReddy07?tab=repositories)
 
-### 04 / Azure AI Invoice Processing
+### 04. Azure AI Invoice Processing
 
 `AZURE FUNCTIONS` · `EVENT GRID` · `DOCUMENT INTELLIGENCE` · `AZURE SQL`
 
 Event-driven invoice extraction and processing with managed identity and confidence-based review.
 
-[![FIND PROJECT](https://img.shields.io/badge/↗_FIND_PROJECT-3B082B?style=for-the-badge&logo=github&logoColor=FF38A8)](https://github.com/VinuthnaReddy07?tab=repositories)
+[![VIEW REPOSITORIES](https://img.shields.io/badge/VIEW_REPOSITORIES-3B082B?style=for-the-badge&logo=github&logoColor=FF38A8)](https://github.com/VinuthnaReddy07?tab=repositories)
 
 ---
 
-<h2 align="center">◈ BUILDS & EXPERIMENTS ◈</h2>
+<h2 align="center">BUILDS & EXPERIMENTS</h2>
 
-| EXPERIMENT | FOCUS | GITHUB |
+| PROJECT | FOCUS | GITHUB |
 |---|---|---|
 | **Bedrock Guardrails Agent** | Prompt injection, PII filtering, responsible AI | [![GitHub](https://img.shields.io/badge/OPEN-7A1552?style=flat&logo=github&logoColor=white)](https://github.com/VinuthnaReddy07?tab=repositories) |
 | **SageMaker MLOps — Customer Churn** | Training, evaluation, Model Registry | [![GitHub](https://img.shields.io/badge/OPEN-7A1552?style=flat&logo=github&logoColor=white)](https://github.com/VinuthnaReddy07?tab=repositories) |
@@ -118,7 +108,7 @@ Event-driven invoice extraction and processing with managed identity and confide
 
 ---
 
-<h2 align="center">◈ TECH STACK ◈</h2>
+<h2 align="center">TECH STACK</h2>
 
 <div align="center">
 
@@ -136,18 +126,23 @@ Event-driven invoice extraction and processing with managed identity and confide
 
 **GENERATIVE AI & DATA**
 
-`LANGCHAIN` · `STRANDS SDK` · `MCP` · `AMAZON BEDROCK`  
+`LANGCHAIN` · `STRANDS SDK` · `MCP` · `AMAZON BEDROCK`
+
 `SAGEMAKER` · `CHROMADB` · `OPENSEARCH` · `DYNAMODB` · `SNOWFLAKE`
+
+**CORE AREAS**
+
+`AGENTIC AI` · `RAG` · `LLM APPLICATIONS` · `PROMPT ENGINEERING` · `RESPONSIBLE AI`
 
 </div>
 
 ---
 
-<h2 align="center">◈ CERTIFICATIONS & LEARNING ◈</h2>
+<h2 align="center">CERTIFICATIONS & LEARNING</h2>
 
 <div align="center">
 
-![AWS](https://img.shields.io/badge/AWS_CERTIFIED_AI_PRACTITIONER-24051C?style=for-the-badge&logo=amazonaws&logoColor=FF38A8)
+![AWS Certified](https://img.shields.io/badge/AWS_CERTIFIED_AI_PRACTITIONER-24051C?style=for-the-badge&logo=amazonaws&logoColor=FF38A8)
 
 </div>
 
@@ -158,7 +153,7 @@ Event-driven invoice extraction and processing with managed identity and confide
 
 ---
 
-<h2 align="center">◈ EDUCATION ◈</h2>
+<h2 align="center">EDUCATION</h2>
 
 <div align="center">
 
@@ -170,10 +165,12 @@ Affiliated to Osmania University · 2021–2025
 
 </div>
 
+---
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:99005C,35:641044,70:160817,100:050307&height=130&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:99005C,35:641044,70:160817,100:050307&height=110&section=footer&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2200&pause=700&color=FF38A8&center=true&vCenter=true&width=500&lines=BUILD.+BREAK.+LEARN.+REPEAT.;CODE+WITH+PURPOSE.;ALWAYS+BUILDING+WHAT'S+NEXT." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2200&pause=700&color=FF38A8&center=true&vCenter=true&width=500&height=30&lines=BUILD.+BREAK.+LEARN.+REPEAT.;CODE+WITH+PURPOSE.;ALWAYS+BUILDING+WHAT'S+NEXT."/>
 
 </div>
