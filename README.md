@@ -9,8 +9,9 @@
 <a href="https://github.com/VinuthnaReddy07">
 <img src="https://img.shields.io/badge/GITHUB-100812?style=for-the-badge&logo=github&logoColor=FF38A8"/>
 </a>
-<a href="https://linkedin.com/in/vinuthnareddymallu">
-<img src="https://img.shields.io/badge/LINKEDIN-100812?style=for-the-badge&logo=linkedin&logoColor=FF38A8"/>
+<a href="https://www.linkedin.com/in/malluvinuthnareddy/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 </a>
 <a href="https://vinuthnareddymallu-portfolio.lovable.app/">
 <img src="https://img.shields.io/badge/PORTFOLIO-100812?style=for-the-badge&logo=firefox&logoColor=FF38A8"/>
@@ -109,6 +110,8 @@ Event-driven invoice extraction and processing with managed identity and confide
 | **SageMaker Data Drift Monitoring** | CloudWatch, SNS, automated retraining | [OPEN](https://github.com/VinuthnaReddy07?tab=repositories) |
 | **Data Wrangler & EMR** | Data preparation, feature engineering, Spark | [OPEN](https://github.com/VinuthnaReddy07?tab=repositories) |
 | **SageMaker XGBoost** | Script-mode training, hyperparameter tuning | [OPEN](https://github.com/VinuthnaReddy07?tab=repositories) |
+| **Financial LLM Fine-Tuning** | GPT-2, LoRA, financial education dataset, model evaluation | [OPEN](https://github.com/VinuthnaReddy07/Financial-LLM-Fine-Tuning) |
+| **AutoValue — Car Price Prediction** | Random Forest, regression, preprocessing, Streamlit | [OPEN](https://github.com/VinuthnaReddy07/Car_price_prediction_using_RandomForestRegressor) |
 
 ---
 
