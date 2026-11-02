@@ -1,36 +1,40 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:17101F,50:54234F,100:C65391&height=190&section=header&text=VINUTHNA%20REDDY%20MALLU&fontSize=37&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=GENERATIVE%20AI%20ENGINEER%20%7C%20AGENTIC%20AI%20%7C%20RAG&descSize=14&descAlignY=60&descColor=F4C8E5" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050307,25:160817,55:350D32,80:641044,100:99005C&height=220&section=header&text=VINUTHNA%20REDDY%20MALLU&fontSize=38&fontColor=FFFFFF&fontAlignY=36&animation=twinkling&desc=GENERATIVE%20AI%20ENGINEER%20%7C%20AGENTIC%20AI%20%7C%20RAG&descSize=14&descAlignY=58&descColor=FF5CB8" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=900&color=E879B9&center=true&vCenter=true&width=650&lines=Building+Intelligent+AI+Applications;Exploring+Agentic+AI+%26+LLM+Systems;Creating+with+AWS+%26+Python;Learning+by+Building+%26+Experimenting" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1800&pause=600&color=FF38A8&center=true&vCenter=true&width=700&lines=Building+Agentic+AI+Systems;Engineering+RAG+Applications;Exploring+LLMs+%26+Multi-Agent+Workflows;AWS+%7C+Python+%7C+Generative+AI;Turning+Ideas+Into+Working+Projects" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-18121F?style=for-the-badge&logo=github&logoColor=E879B9)](https://github.com/VinuthnaReddy07)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-18121F?style=for-the-badge&logo=linkedin&logoColor=E879B9)](https://linkedin.com/in/vinuthnareddymallu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-18121F?style=for-the-badge&logo=firefox&logoColor=E879B9)](https://vinuthnareddymallu-portfolio.lovable.app/)
-[![Email](https://img.shields.io/badge/Email-18121F?style=for-the-badge&logo=gmail&logoColor=E879B9)](mailto:malluvinuthnareddy0708@gmail.com)
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-09050D?style=for-the-badge&logo=github&logoColor=FF38A8)](https://github.com/VinuthnaReddy07)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-09050D?style=for-the-badge&logo=linkedin&logoColor=FF38A8)](https://linkedin.com/in/vinuthnareddymallu)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-09050D?style=for-the-badge&logo=firefox&logoColor=FF38A8)](https://vinuthnareddymallu-portfolio.lovable.app/)
+[![Email](https://img.shields.io/badge/EMAIL-09050D?style=for-the-badge&logo=gmail&logoColor=FF38A8)](mailto:malluvinuthnareddy0708@gmail.com)
 
 </div>
 
 ---
 
-## ✦ GITHUB ACTIVITY
+<h2 align="center">◈ GITHUB ACTIVITY ◈</h2>
 
 <div align="center">
 
-[![Contribution Calendar](https://ghchart.rshah.org/E879B9/VinuthnaReddy07)](https://github.com/VinuthnaReddy07)
+<img src="https://ghchart.rshah.org/FF38A8/VinuthnaReddy07" alt="GitHub contribution calendar" width="95%"/>
 
-[![Repositories](https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-54234F?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/VinuthnaReddy07?tab=repositories)
+<br/>
+
+[![Repositories](https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-25051E?style=for-the-badge&logo=github&logoColor=FF38A8)](https://github.com/VinuthnaReddy07?tab=repositories)
 
 </div>
 
 ---
 
-## ✦ EXPERIENCE
+<h2 align="center">◈ EXPERIENCE ◈</h2>
 
-**AI Engineer — Ecom cent Technologies Private Limited**
+### AI Engineer — Ecom cent Technologies Private Limited
 
-`Client: Altimetrik` · `Nov 2024 – Present` · `Bengaluru, India`
+`CLIENT: ALTIMETRIK` · `NOV 2024 – PRESENT` · `BENGALURU, INDIA`
 
 - Developing GenAI applications for financial intelligence and enterprise knowledge retrieval.
 - Building RAG workflows and LLM-powered document analysis solutions.
@@ -38,55 +42,55 @@
 
 ---
 
-## ✦ FEATURED PROJECTS
+<h2 align="center">◈ FEATURED PROJECTS ◈</h2>
 
 ### 01 / Multi-Agent Coffee Shop Automation
 
-`AWS Bedrock` `Strands SDK` `MCP` `OpenSearch` `DynamoDB`
+`AWS BEDROCK` · `STRANDS SDK` · `MCP` · `OPENSEARCH` · `DYNAMODB`
 
 Multi-agent architecture with a supervisor coordinating specialist agents for orders, menus, stores, offers and payments.
 
-[![View Project](https://img.shields.io/badge/VIEW%20PROJECT-54234F?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/VinuthnaReddy07/Multi-Agent-Generative-AI-System-on-AWS)
+[![VIEW PROJECT](https://img.shields.io/badge/↗_VIEW_PROJECT-3B082B?style=for-the-badge&logo=github&logoColor=FF38A8)](https://github.com/VinuthnaReddy07/Multi-Agent-Generative-AI-System-on-AWS)
 
 ### 02 / RBAC-RAG Secure Document Intelligence
 
-`Python` `FastAPI` `React` `ChromaDB` `Ollama`
+`PYTHON` · `FASTAPI` · `REACT` · `CHROMADB` · `OLLAMA`
 
 Secure document retrieval with role-based access, JWT authentication and metadata filtering.
 
-[![Find on GitHub](https://img.shields.io/badge/FIND%20ON%20GITHUB-54234F?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/VinuthnaReddy07?tab=repositories)
+[![FIND PROJECT](https://img.shields.io/badge/↗_FIND_PROJECT-3B082B?style=for-the-badge&logo=github&logoColor=FF38A8)](https://github.com/VinuthnaReddy07?tab=repositories)
 
 ### 03 / ECS Fargate CI/CD
 
-`Docker` `AWS ECS` `ECR` `CodePipeline`
+`DOCKER` · `AWS ECS` · `ECR` · `CODEPIPELINE`
 
 Automated container deployment using CI/CD and blue-green deployment.
 
-[![Find on GitHub](https://img.shields.io/badge/FIND%20ON%20GITHUB-54234F?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/VinuthnaReddy07?tab=repositories)
+[![FIND PROJECT](https://img.shields.io/badge/↗_FIND_PROJECT-3B082B?style=for-the-badge&logo=github&logoColor=FF38A8)](https://github.com/VinuthnaReddy07?tab=repositories)
 
 ### 04 / Azure AI Invoice Processing
 
-`Azure Functions` `Event Grid` `Document Intelligence` `Azure SQL`
+`AZURE FUNCTIONS` · `EVENT GRID` · `DOCUMENT INTELLIGENCE` · `AZURE SQL`
 
 Event-driven invoice extraction and processing with managed identity and confidence-based review.
 
-[![Find on GitHub](https://img.shields.io/badge/FIND%20ON%20GITHUB-54234F?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/VinuthnaReddy07?tab=repositories)
+[![FIND PROJECT](https://img.shields.io/badge/↗_FIND_PROJECT-3B082B?style=for-the-badge&logo=github&logoColor=FF38A8)](https://github.com/VinuthnaReddy07?tab=repositories)
 
 ---
 
-## ✦ BUILDS & EXPERIMENTS
+<h2 align="center">◈ BUILDS & EXPERIMENTS ◈</h2>
 
-| Experiment | What I explored | GitHub |
+| EXPERIMENT | FOCUS | GITHUB |
 |---|---|---|
-| **Bedrock Guardrails Agent** | Prompt injection protection, PII filtering, responsible AI | [<img src="https://img.shields.io/badge/VIEW-8C3B76?style=flat&logo=github&logoColor=white" />](https://github.com/VinuthnaReddy07?tab=repositories) |
-| **SageMaker MLOps — Customer Churn** | Training, evaluation, Model Registry and deployment | [<img src="https://img.shields.io/badge/VIEW-8C3B76?style=flat&logo=github&logoColor=white" />](https://github.com/VinuthnaReddy07?tab=repositories) |
-| **SageMaker Data Drift Monitoring** | CloudWatch, SNS alerts and automated retraining | [<img src="https://img.shields.io/badge/VIEW-8C3B76?style=flat&logo=github&logoColor=white" />](https://github.com/VinuthnaReddy07?tab=repositories) |
-| **Data Wrangler & EMR** | Data preparation, feature engineering and Spark | [<img src="https://img.shields.io/badge/VIEW-8C3B76?style=flat&logo=github&logoColor=white" />](https://github.com/VinuthnaReddy07?tab=repositories) |
-| **SageMaker XGBoost** | Script-mode training and hyperparameter tuning | [<img src="https://img.shields.io/badge/VIEW-8C3B76?style=flat&logo=github&logoColor=white" />](https://github.com/VinuthnaReddy07?tab=repositories) |
+| **Bedrock Guardrails Agent** | Prompt injection, PII filtering, responsible AI | [![GitHub](https://img.shields.io/badge/OPEN-7A1552?style=flat&logo=github&logoColor=white)](https://github.com/VinuthnaReddy07?tab=repositories) |
+| **SageMaker MLOps — Customer Churn** | Training, evaluation, Model Registry | [![GitHub](https://img.shields.io/badge/OPEN-7A1552?style=flat&logo=github&logoColor=white)](https://github.com/VinuthnaReddy07?tab=repositories) |
+| **SageMaker Data Drift Monitoring** | CloudWatch, SNS, automated retraining | [![GitHub](https://img.shields.io/badge/OPEN-7A1552?style=flat&logo=github&logoColor=white)](https://github.com/VinuthnaReddy07?tab=repositories) |
+| **Data Wrangler & EMR** | Data preparation, feature engineering, Spark | [![GitHub](https://img.shields.io/badge/OPEN-7A1552?style=flat&logo=github&logoColor=white)](https://github.com/VinuthnaReddy07?tab=repositories) |
+| **SageMaker XGBoost** | Script-mode training, hyperparameter tuning | [![GitHub](https://img.shields.io/badge/OPEN-7A1552?style=flat&logo=github&logoColor=white)](https://github.com/VinuthnaReddy07?tab=repositories) |
 
 ---
 
-## ✦ TECHNOLOGIES
+<h2 align="center">◈ TECH STACK ◈</h2>
 
 <div align="center">
 
@@ -104,18 +108,18 @@ Event-driven invoice extraction and processing with managed identity and confide
 
 **GENERATIVE AI & DATA**
 
-`LangChain` · `Strands SDK` · `MCP` · `Amazon Bedrock`  
-`SageMaker` · `ChromaDB` · `OpenSearch` · `DynamoDB` · `Snowflake`
+`LANGCHAIN` · `STRANDS SDK` · `MCP` · `AMAZON BEDROCK`  
+`SAGEMAKER` · `CHROMADB` · `OPENSEARCH` · `DYNAMODB` · `SNOWFLAKE`
 
 </div>
 
 ---
 
-## ✦ CERTIFICATIONS & LEARNING
+<h2 align="center">◈ CERTIFICATIONS & LEARNING ◈</h2>
 
 <div align="center">
 
-[![AWS Certified](https://img.shields.io/badge/AWS-Certified%20AI%20Practitioner-54234F?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/)
+![AWS](https://img.shields.io/badge/AWS_CERTIFIED_AI_PRACTITIONER-24051C?style=for-the-badge&logo=amazonaws&logoColor=FF38A8)
 
 </div>
 
@@ -126,17 +130,22 @@ Event-driven invoice extraction and processing with managed identity and confide
 
 ---
 
-## ✦ EDUCATION
-
-**Bachelor's in Computer Science**
-
-Vishwa Vishwani Institute of Systems and Management  
-Affiliated to Osmania University · 2021–2025
+<h2 align="center">◈ EDUCATION ◈</h2>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:17101F,50:54234F,100:C65391&height=110&section=footer" />
+**BACHELOR'S IN COMPUTER SCIENCE**
 
-**BUILD · EXPERIMENT · INNOVATE**
+Vishwa Vishwani Institute of Systems and Management
+
+Affiliated to Osmania University · 2021–2025
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:99005C,35:641044,70:160817,100:050307&height=130&section=footer&animation=twinkling"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2200&pause=700&color=FF38A8&center=true&vCenter=true&width=500&lines=BUILD.+BREAK.+LEARN.+REPEAT.;CODE+WITH+PURPOSE.;ALWAYS+BUILDING+WHAT'S+NEXT." />
 
 </div>
