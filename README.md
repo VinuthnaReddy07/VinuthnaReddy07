@@ -16,17 +16,31 @@
 
 ---
 
+
 <h2 align="center">◈ GITHUB ACTIVITY ◈</h2>
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/FF38A8/VinuthnaReddy07" alt="GitHub contribution calendar" width="95%"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VinuthnaReddy07&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=09050D&title_color=FF38A8&icon_color=C0268B&text_color=EADDE8&ring_color=FF38A8" />
 
-<br/>
+<img width="49%" src="https://streak-stats.demolab.com?user=VinuthnaReddy07&theme=dark&hide_border=true&background=09050D&ring=FF38A8&fire=FF38A8&currStreakLabel=FF38A8&sideLabels=C0268B&dates=9B8497&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
-[![Repositories](https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-25051E?style=for-the-badge&logo=github&logoColor=FF38A8)](https://github.com/VinuthnaReddy07?tab=repositories)
+<br/><br/>
+
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=VinuthnaReddy07&bg_color=09050D&color=EADDE8&line=FF38A8&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+
+<br/><br/>
+
+<img width="95%" src="https://ghchart.rshah.org/FF38A8/VinuthnaReddy07" alt="GitHub contribution calendar"/>
+
+<br/><br/>
+
+<a href="https://github.com/VinuthnaReddy07?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-3B082B?style=for-the-badge&logo=github&logoColor=FF38A8"/>
+</a>
 
 </div>
+
 
 ---
 
