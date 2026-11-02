@@ -1,15 +1,15 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B20,50:312E81,100:4F46E5&height=220&section=header&text=Vinuthna%20Reddy%20Mallu&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEER%20%20%7C%20%20AGENTIC%20AI%20%20%7C%20%20RAG%20%20%7C%20%20AWS&descSize=16&descAlignY=62"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B20,50:312E81,100:4F46E5&height=220&section=header&text=Vinuthna%20Reddy%20Mallu&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=BUILD%20%E2%80%A2%20INNOVATE%20%E2%80%A2%20DEPLOY&descSize=17&descAlignY=62"/>
 
-<h2>BUILD. INNOVATE. DEPLOY.</h2>
+<h2>Generative AI Engineer | Agentic AI | RAG | AWS & Azure</h2>
 
-<p>Generative AI Engineer | Agentic AI | LLM Engineering | Cloud AI</p>
+<p>Building intelligent applications, multi-agent systems and cloud AI solutions.</p>
 
 <a href="https://github.com/VinuthnaReddy07"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/malluvinathnareddy"><img src="https://img.shields.io/badge/LINKEDIN-312E81?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:malluvinathnareddy0708@gmail.com"><img src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/malluvinuthnareddy"><img src="https://img.shields.io/badge/LINKEDIN-312E81?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:malluvinuthnareddy0708@gmail.com"><img src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://vinuthnareddymallu-portfolio.lovable.app/"><img src="https://img.shields.io/badge/PORTFOLIO-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
@@ -22,44 +22,44 @@
 
 <h2>👩‍💻 ABOUT ME</h2>
 
-Generative AI Engineer building intelligent applications, agentic workflows and cloud-based AI solutions.
+Generative AI Engineer passionate about developing intelligent applications and cloud-based AI solutions.
 
-**What I build**
+**BUILDING WITH**
 
 - LLM Applications
-- RAG Systems
-- Multi-Agent AI
-- Intelligent Automation
-- Secure Document AI
-- Cloud-Native Solutions
+- Agentic AI Systems
+- RAG Pipelines
+- AI Automation
+- Cloud Architecture
+- Secure AI Solutions
 
-**Currently Exploring**
+**EXPLORING**
 
-- LLM Fine-Tuning
 - MCP Integrations
 - Advanced RAG
-- Agent Evaluation
-- AI Security
+- Multi-Agent Systems
+- AI Evaluation
+- Responsible AI
 
 <br/>
 
-<h2>📊 GITHUB AT A GLANCE</h2>
+<h2>📊 GITHUB STATS</h2>
 
 <a href="https://github.com/VinuthnaReddy07">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=VinuthnaReddy07&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E2E8F0&rank_icon=github&hide=issues"/>
+<img src="https://github-readme-stats.vercel.app/api?username=VinuthnaReddy07&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=FFFFFF&hide=issues" width="100%"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/VinuthnaReddy07?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="49%" valign="top">
 
-<h2>⭐ FEATURED PROJECTS</h2>
+<h2>⭐ FEATURED REPOSITORIES</h2>
 
 <table>
 <tr>
@@ -69,33 +69,35 @@ Generative AI Engineer building intelligent applications, agentic workflows and 
 
 Secure enterprise document retrieval with department-level permissions and local LLM inference.
 
-`FastAPI` `React` `ChromaDB` `Ollama` `JWT`
-
-**Highlights**
+<img src="https://img.shields.io/badge/FastAPI-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/React-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/ChromaDB-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ollama-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/JWT-312E81?style=flat-square"/>
 
 - Four department-specific roles
 - Metadata-based retrieval filtering
 - Local Phi-3 Mini inference
 - JWT and OAuth2 authentication
-- 15+ protected API endpoints
 
 <a href="https://github.com/VinuthnaReddy07?tab=repositories">VIEW REPOSITORY →</a>
 
 </td>
 </tr>
+
 <tr>
 <td>
 
 <h3>🤖 MULTI-AGENT COFFEE SHOP AUTOMATION</h3>
 
-Supervisor-agent architecture coordinating five specialized AI agents.
+Supervisor architecture coordinating five specialized AI agents using Amazon Bedrock and Strands SDK.
 
-`Bedrock` `Strands SDK` `MCP` `DynamoDB` `Lambda`
+<img src="https://img.shields.io/badge/Bedrock-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/Strands_SDK-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/MCP-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/DynamoDB-312E81?style=flat-square"/>
 
-**Highlights**
-
-- Five specialized agents
-- Supervisor orchestration
+- Multi-agent orchestration
 - Tool calling and delegation
 - RAG-powered responses
 - Session persistence
@@ -104,6 +106,7 @@ Supervisor-agent architecture coordinating five specialized AI agents.
 
 </td>
 </tr>
+
 <tr>
 <td>
 
@@ -111,9 +114,10 @@ Supervisor-agent architecture coordinating five specialized AI agents.
 
 Automated container builds and blue-green deployments for a Node.js application.
 
-`Docker` `ECS Fargate` `ECR` `CodePipeline` `CodeDeploy`
-
-**Highlights**
+<img src="https://img.shields.io/badge/Docker-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/ECS-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/ECR-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/CodePipeline-312E81?style=flat-square"/>
 
 - Automated Docker builds
 - Immutable image storage
@@ -124,19 +128,20 @@ Automated container builds and blue-green deployments for a Node.js application.
 
 </td>
 </tr>
+
 <tr>
 <td>
 
-<h3>☁️ AI INVOICE PROCESSING — AZURE</h3>
+<h3>☁️ AZURE AI INVOICE PROCESSING</h3>
 
-Event-driven invoice processing using intelligent document extraction.
+Event-driven invoice processing with intelligent document extraction and serverless architecture.
 
-`Azure Functions` `Blob Storage` `Event Grid` `Document Intelligence`
+<img src="https://img.shields.io/badge/Azure_Functions-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/Blob_Storage-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/Event_Grid-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/Document_Intelligence-312E81?style=flat-square"/>
 
-**Highlights**
-
-- Serverless document processing
-- Event-driven architecture
+- Event-driven processing
 - Managed Identity authentication
 - Azure SQL integration
 - Bicep infrastructure
@@ -147,86 +152,91 @@ Event-driven invoice processing using intelligent document extraction.
 </tr>
 </table>
 
-<h2>📈 GITHUB CONTRIBUTIONS</h2>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VinuthnaReddy07&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FF4D9D&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
-
 </td>
 
 <td width="25%" valign="top">
 
 <h2>⚡ TECH STACK</h2>
 
-**LANGUAGES**
+**PROGRAMMING**
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" width="36"/>
-<img src="https://skillicons.dev/icons?i=js&theme=dark" width="36"/>
-<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="36"/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="35"/>
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="35"/>
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="35"/>
 
-Python · SQL · JavaScript · TypeScript
-
-<hr/>
-
-**FRAMEWORKS & LIBRARIES**
-
-<img src="https://img.shields.io/badge/FastAPI-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/LangChain-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/LangGraph-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Strands_SDK-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Transformers-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/PyTorch-7C3AED?style=flat-square"/>
+Python · SQL
 
 <hr/>
 
-**CLOUD PLATFORMS**
+**FRAMEWORKS**
 
-<img src="https://skillicons.dev/icons?i=aws,azure&theme=dark"/>
-
-AWS Bedrock · SageMaker · Lambda · S3 · DynamoDB · ECS · OpenSearch
-
-Azure Functions · Blob Storage · Event Grid · Azure AI
+<img src="https://img.shields.io/badge/FastAPI-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangChain-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/Strands_SDK-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/Transformers-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/PyTorch-312E81?style=flat-square"/>
 
 <hr/>
 
-**AI & DATA**
+**AWS CLOUD**
 
-<img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/LLMs-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Embeddings-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/MCP-7C3AED?style=flat-square"/>
+<img src="https://skillicons.dev/icons?i=aws&theme=dark"/>
+
+Bedrock · SageMaker · Lambda · S3 · DynamoDB · Aurora · ECS · OpenSearch
+
+<hr/>
+
+**AZURE CLOUD**
+
+<img src="https://skillicons.dev/icons?i=azure&theme=dark"/>
+
+Functions · Blob Storage · Event Grid · Document Intelligence · Azure SQL
+
+<hr/>
+
+**AI & MACHINE LEARNING**
+
+<img src="https://img.shields.io/badge/Agentic_AI-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLMs-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/Embeddings-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/MCP-312E81?style=flat-square"/>
 
 <hr/>
 
 **DATABASES**
 
-<img src="https://img.shields.io/badge/ChromaDB-4F46E5?style=flat-square"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4F46E5?style=flat-square"/>
-<img src="https://img.shields.io/badge/DynamoDB-4F46E5?style=flat-square"/>
-<img src="https://img.shields.io/badge/Snowflake-4F46E5?style=flat-square"/>
-<img src="https://img.shields.io/badge/OpenSearch-4F46E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/ChromaDB-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/PostgreSQL-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/DynamoDB-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/Snowflake-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenSearch-312E81?style=flat-square"/>
 
 <hr/>
 
-**DEVOPS & TOOLS**
+**DEVOPS**
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux&theme=dark"/>
 
-Git · Docker · GitHub Actions · CI/CD
+Docker · Git · GitHub Actions · CI/CD
 
 <hr/>
 
 <h2>🏆 CERTIFICATIONS</h2>
 
-<img src="https://img.shields.io/badge/AWS_AI_Practitioner-Certified-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/AWS_AI_Practitioner-CERTIFIED-312E81?style=flat-square"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/IBM_Gen_AI-Professional-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-Kaggle-312E81?style=flat-square"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/AWS_ML_Engineer-Scheduled_2026-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/AWS_ML_Engineer-Associate_In_Progress-312E81?style=flat-square"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Azure_AI_Apps_%26_Agentic_AI-Scheduled_2026-312E81?style=flat-square"/>
 
 </td>
 </tr>
@@ -236,8 +246,6 @@ Git · Docker · GitHub Actions · CI/CD
 
 <h2 align="center">🧪 BUILDS & EXPERIMENTS</h2>
 
-<div align="center">
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -245,9 +253,9 @@ Git · Docker · GitHub Actions · CI/CD
 ### 🛡️ Secure AI Agent System
 
 - Amazon Bedrock Guardrails
+- Input/output filtering
 - Prompt injection protection
-- PII masking
-- Content moderation
+- PII masking and moderation
 
 <img src="https://img.shields.io/badge/BEDROCK-312E81?style=flat-square"/>
 <img src="https://img.shields.io/badge/GUARDRAILS-312E81?style=flat-square"/>
@@ -256,10 +264,10 @@ Git · Docker · GitHub Actions · CI/CD
 </td>
 <td width="50%" valign="top">
 
-### 📊 MLOps — Customer Churn
+### 📊 SageMaker MLOps — Customer Churn
 
 - End-to-end ML pipeline
-- Model training and evaluation
+- Data processing and training
 - Model Registry
 - Feature engineering
 
@@ -269,29 +277,30 @@ Git · Docker · GitHub Actions · CI/CD
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 ### 📉 Data Drift Monitoring
 
-- Drift detection
-- CloudWatch alerts
-- Automated retraining
-- Lambda and Step Functions
+- Data drift detection
+- CloudWatch monitoring
+- SNS alerts
+- Automated retraining workflows
 
-<img src="https://img.shields.io/badge/SAGEMAKER-312E81?style=flat-square"/>
 <img src="https://img.shields.io/badge/CLOUDWATCH-312E81?style=flat-square"/>
 <img src="https://img.shields.io/badge/SNS-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/STEP_FUNCTIONS-312E81?style=flat-square"/>
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Data Preparation — EMR
+### ⚡ Data Preparation with EMR
 
 - Data preprocessing
 - Feature engineering
 - Missing-value handling
-- Spark distributed processing
+- Spark-based processing
 
 <img src="https://img.shields.io/badge/EMR-312E81?style=flat-square"/>
 <img src="https://img.shields.io/badge/SPARK-312E81?style=flat-square"/>
@@ -299,6 +308,7 @@ Git · Docker · GitHub Actions · CI/CD
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -315,24 +325,39 @@ Git · Docker · GitHub Actions · CI/CD
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Financial LLM Fine-Tuning
+### ☁️ Azure Invoice Processing
 
-- Instruction dataset preparation
-- GPT-2 full fine-tuning
-- LoRA experiments
-- Evaluation and inference
+- Event Grid triggers
+- Document extraction
+- Serverless processing
+- Managed Identity
 
-<img src="https://img.shields.io/badge/PYTORCH-312E81?style=flat-square"/>
-<img src="https://img.shields.io/badge/TRANSFORMERS-312E81?style=flat-square"/>
-<img src="https://img.shields.io/badge/LoRA-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/AZURE_FUNCTIONS-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/DOCUMENT_AI-312E81?style=flat-square"/>
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+
 <a href="https://github.com/VinuthnaReddy07?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_BUILDS-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</div>
+
+---
+
+<h2 align="center">📈 GITHUB CONTRIBUTIONS</h2>
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/7C3AED/VinuthnaReddy07" alt="GitHub Contributions" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VinuthnaReddy07&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=A78BFA" width="75%"/>
 
 </div>
 
@@ -352,7 +377,7 @@ Git · Docker · GitHub Actions · CI/CD
 
 <a href="https://github.com/VinuthnaReddy07">GITHUB</a>
 &nbsp; ✦ &nbsp;
-<a href="https://linkedin.com/in/malluvinathnareddy">LINKEDIN</a>
+<a href="https://linkedin.com/in/malluvinuthnareddy">LINKEDIN</a>
 &nbsp; ✦ &nbsp;
 <a href="https://vinuthnareddymallu-portfolio.lovable.app/">PORTFOLIO</a>
 
