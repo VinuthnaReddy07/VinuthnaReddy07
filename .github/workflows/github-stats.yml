@@ -1,4 +1,5 @@
-name: Update GitHub Contribution Calendar
+
+name: Generate GitHub Contribution Stats
 
 on:
   schedule:
@@ -16,7 +17,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate contribution calendar
+      - name: Generate contribution stats
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -25,12 +26,12 @@ jobs:
           import json
           import urllib.request
           from datetime import date, timedelta
-          from pathlib import Path
-          from xml.sax.saxutils import escape
 
           username = "VinuthnaReddy07"
+          token = os.environ["GH_TOKEN"]
+
           today = date.today()
-          start = today - timedelta(days=370)
+          start = today - timedelta(days=364)
 
           query = """
           query($login: String!, $from: DateTime!, $to: DateTime!) {
@@ -64,86 +65,98 @@ jobs:
               "https://api.github.com/graphql",
               data=json.dumps(payload).encode(),
               headers={
-                  "Authorization": "Bearer " + os.environ["GH_TOKEN"],
-                  "Content-Type": "application/json",
-                  "User-Agent": "GitHub-Contribution-Calendar"
+                  "Authorization": f"Bearer {token}",
+                  "Content-Type": "application/json"
               }
           )
 
           with urllib.request.urlopen(request) as response:
               result = json.loads(response.read())
 
-          if result.get("errors"):
-              raise RuntimeError(json.dumps(result["errors"]))
+          if "errors" in result:
+              raise RuntimeError(result["errors"])
 
           calendar = result["data"]["user"]["contributionsCollection"]["contributionCalendar"]
           weeks = calendar["weeks"]
-          total = calendar["totalContributions"]
-
-          cell = 12
-          gap = 4
-          step = cell + gap
-          left = 48
-          top = 48
-          width = left + len(weeks) * step + 12
-          height = 160
-
-          colors = ["#190D19", "#59143D", "#A51B65", "#E43B91", "#FF8AC8"]
-
-          def level(count):
-              if count == 0:
-                  return 0
-              if count <= 3:
-                  return 1
-              if count <= 6:
-                  return 2
-              if count <= 9:
-                  return 3
-              return 4
-
-          parts = [
-              f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}">',
-              '<rect width="100%" height="100%" rx="10" fill="#09050D"/>',
-              '<text x="12" y="23" fill="#FF8AC8" font-size="14" font-family="Arial" font-weight="bold">CONTRIBUTIONS IN THE LAST YEAR</text>',
-              f'<text x="12" y="39" fill="#FFFFFF" font-size="10" font-family="Arial">{total} contributions</text>'
+          days = [
+              day
+              for week in weeks
+              for day in week["contributionDays"]
           ]
 
-          month_seen = set()
-          for wi, week in enumerate(weeks):
-              x = left + wi * step
-              for day in week["contributionDays"]:
-                  d = date.fromisoformat(day["date"])
-                  y = top + d.weekday() * step
-                  if d.day <= 7 and d.month not in month_seen:
-                      parts.append(
-                          f'<text x="{x}" y="59" fill="#D7A9C4" font-size="9" font-family="Arial">{escape(d.strftime("%b"))}</text>'
-                      )
-                      month_seen.add(d.month)
+          total = calendar["totalContributions"]
 
-                  fill = colors[level(day["contributionCount"])]
-                  parts.append(
-                      f'<rect x="{x}" y="{y}" width="{cell}" height="{cell}" rx="2" fill="{fill}">'
-                      f'<title>{escape(day["date"])}: {day["contributionCount"]} contributions</title></rect>'
-                  )
+          streak = 0
+          longest = 0
+          current = 0
 
-          for i, label in enumerate(["Mon", "Wed", "Fri"]):
-              y = top + [0, 2, 4][i] * step + 10
-              parts.append(
-                  f'<text x="12" y="{y}" fill="#BFA8B8" font-size="9" font-family="Arial">{label}</text>'
+          for day in days:
+              if day["contributionCount"] > 0:
+                  current += 1
+                  longest = max(longest, current)
+              else:
+                  current = 0
+
+          # Current streak: count backward from today.
+          for day in reversed(days):
+              if day["contributionCount"] > 0:
+                  streak += 1
+              else:
+                  break
+
+          # If there was no contribution today, allow yesterday
+          # to be the end of the current streak.
+          if days and days[-1]["contributionCount"] == 0:
+              streak = 0
+              for day in reversed(days[:-1]):
+                  if day["contributionCount"] > 0:
+                      streak += 1
+                  else:
+                      break
+
+          os.makedirs("assets", exist_ok=True)
+
+          svg = [
+              '<svg xmlns="http://www.w3.org/2000/svg" width="900" height="165" viewBox="0 0 900 165">',
+              '<rect width="900" height="165" rx="12" fill="#100914"/>',
+              '<text x="25" y="30" fill="#F9A8D4" font-family="Arial" font-size="16" font-weight="bold">GITHUB CONTRIBUTION ACTIVITY</text>'
+          ]
+
+          stats = [
+              ("TOTAL CONTRIBUTIONS", str(total)),
+              ("CURRENT STREAK", f"{streak} days"),
+              ("LONGEST STREAK", f"{longest} days")
+          ]
+
+          positions = [25, 325, 625]
+
+          for (label, value), x in zip(stats, positions):
+              svg.append(
+                  f'<text x="{x}" y="78" fill="#D946EF" font-family="Arial" font-size="30" font-weight="bold">{value}</text>'
+              )
+              svg.append(
+                  f'<text x="{x}" y="105" fill="#D8B4E2" font-family="Arial" font-size="12">{label}</text>'
               )
 
-          parts.append("</svg>")
+          svg.append(
+              '<text x="25" y="143" fill="#A78BFA" font-family="Arial" font-size="11">Updated automatically by GitHub Actions</text>'
+          )
+          svg.append('</svg>')
 
-          output = Path("assets/contribution-calendar.svg")
-          output.parent.mkdir(parents=True, exist_ok=True)
-          output.write_text("\n".join(parts), encoding="utf-8")
-          print(f"Calendar generated: {total} contributions")
+          with open("assets/contribution-stats.svg", "w", encoding="utf-8") as file:
+              file.write("\n".join(svg))
+
+          print(f"Total contributions: {total}")
+          print(f"Current streak: {streak}")
+          print(f"Longest streak: {longest}")
           PY
 
-      - name: Commit updated calendar
+      - name: Commit updated stats
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/contribution-calendar.svg
-          git diff --cached --quiet || git commit -m "Update GitHub contribution calendar"
-          git push
+          git add assets/contribution-stats.svg
+          git diff --cached --quiet || (
+            git commit -m "Update GitHub contribution stats"
+            git push
+          )
