@@ -24,17 +24,25 @@
 ---
 
 
+
 ## GITHUB ACTIVITY
 
 <p align="center">
-  <a href="https://github.com/VinuthnaReddy07">
-    <img
-      src="https://streak-stats.demolab.com/?user=VinuthnaReddy07&theme=tokyonight&background=0D1117&border=FF007F&stroke=7E22CE&ring=FF007F&fire=FF007F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF007F&sideLabels=FFFFFF&dates=A78BFA&timezone=Asia%2FKolkata&short_numbers=false"
-      width="90%"
-      alt="GitHub contribution streak statistics"
-    />
-  </a>
+  <img
+    src="https://streak-stats.demolab.com/?user=VinuthnaReddy07&theme=tokyonight&background=0D1117&border=FF007F&stroke=7E22CE&ring=FF007F&fire=FF007F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF007F&sideLabels=FFFFFF&dates=A78BFA&timezone=Asia%2FKolkata&short_numbers=false"
+    width="90%"
+    alt="GitHub streak statistics"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="./assets/contribution-calendar.svg"
+    width="100%"
+    alt="Daily GitHub contribution heatmap"
+  />
+</p>
+
 
 ---
 
