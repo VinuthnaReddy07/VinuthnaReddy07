@@ -1,0 +1,149 @@
+name: Update GitHub Contribution Calendar
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-calendar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate contribution calendar
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python - <<'PY'
+          import os
+          import json
+          import urllib.request
+          from datetime import date, timedelta
+          from pathlib import Path
+          from xml.sax.saxutils import escape
+
+          username = "VinuthnaReddy07"
+          today = date.today()
+          start = today - timedelta(days=370)
+
+          query = """
+          query($login: String!, $from: DateTime!, $to: DateTime!) {
+            user(login: $login) {
+              contributionsCollection(from: $from, to: $to) {
+                contributionCalendar {
+                  totalContributions
+                  weeks {
+                    contributionDays {
+                      contributionCount
+                      date
+                      color
+                    }
+                  }
+                }
+              }
+            }
+          }
+          """
+
+          payload = {
+              "query": query,
+              "variables": {
+                  "login": username,
+                  "from": start.isoformat() + "T00:00:00Z",
+                  "to": today.isoformat() + "T23:59:59Z"
+              }
+          }
+
+          request = urllib.request.Request(
+              "https://api.github.com/graphql",
+              data=json.dumps(payload).encode(),
+              headers={
+                  "Authorization": "Bearer " + os.environ["GH_TOKEN"],
+                  "Content-Type": "application/json",
+                  "User-Agent": "GitHub-Contribution-Calendar"
+              }
+          )
+
+          with urllib.request.urlopen(request) as response:
+              result = json.loads(response.read())
+
+          if result.get("errors"):
+              raise RuntimeError(json.dumps(result["errors"]))
+
+          calendar = result["data"]["user"]["contributionsCollection"]["contributionCalendar"]
+          weeks = calendar["weeks"]
+          total = calendar["totalContributions"]
+
+          cell = 12
+          gap = 4
+          step = cell + gap
+          left = 48
+          top = 48
+          width = left + len(weeks) * step + 12
+          height = 160
+
+          colors = ["#190D19", "#59143D", "#A51B65", "#E43B91", "#FF8AC8"]
+
+          def level(count):
+              if count == 0:
+                  return 0
+              if count <= 3:
+                  return 1
+              if count <= 6:
+                  return 2
+              if count <= 9:
+                  return 3
+              return 4
+
+          parts = [
+              f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}">',
+              '<rect width="100%" height="100%" rx="10" fill="#09050D"/>',
+              '<text x="12" y="23" fill="#FF8AC8" font-size="14" font-family="Arial" font-weight="bold">CONTRIBUTIONS IN THE LAST YEAR</text>',
+              f'<text x="12" y="39" fill="#FFFFFF" font-size="10" font-family="Arial">{total} contributions</text>'
+          ]
+
+          month_seen = set()
+          for wi, week in enumerate(weeks):
+              x = left + wi * step
+              for day in week["contributionDays"]:
+                  d = date.fromisoformat(day["date"])
+                  y = top + d.weekday() * step
+                  if d.day <= 7 and d.month not in month_seen:
+                      parts.append(
+                          f'<text x="{x}" y="59" fill="#D7A9C4" font-size="9" font-family="Arial">{escape(d.strftime("%b"))}</text>'
+                      )
+                      month_seen.add(d.month)
+
+                  fill = colors[level(day["contributionCount"])]
+                  parts.append(
+                      f'<rect x="{x}" y="{y}" width="{cell}" height="{cell}" rx="2" fill="{fill}">'
+                      f'<title>{escape(day["date"])}: {day["contributionCount"]} contributions</title></rect>'
+                  )
+
+          for i, label in enumerate(["Mon", "Wed", "Fri"]):
+              y = top + [0, 2, 4][i] * step + 10
+              parts.append(
+                  f'<text x="12" y="{y}" fill="#BFA8B8" font-size="9" font-family="Arial">{label}</text>'
+              )
+
+          parts.append("</svg>")
+
+          output = Path("assets/contribution-calendar.svg")
+          output.parent.mkdir(parents=True, exist_ok=True)
+          output.write_text("\n".join(parts), encoding="utf-8")
+          print(f"Calendar generated: {total} contributions")
+          PY
+
+      - name: Commit updated calendar
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contribution-calendar.svg
+          git diff --cached --quiet || git commit -m "Update GitHub contribution calendar"
+          git push
