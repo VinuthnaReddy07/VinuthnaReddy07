@@ -23,23 +23,19 @@
 
 ---
 
+
 ## GITHUB ACTIVITY
 
 <p align="center">
-  <img
-    src="./assets/contribution-stats.svg"
-    alt="Total contributions, current streak and longest streak"
-    width="100%"
-  />
+  <a href="https://github.com/VinuthnaReddy07">
+    <img
+      src="https://streak-stats.demolab.com/?user=VinuthnaReddy07&theme=tokyonight&background=0D1117&border=FF007F&stroke=7E22CE&ring=FF007F&fire=FF007F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF007F&sideLabels=FFFFFF&dates=A78BFA&timezone=Asia%2FKolkata&short_numbers=false"
+      width="90%"
+      alt="GitHub contribution streak statistics"
+    />
+  </a>
 </p>
 
-<p align="center">
-  <img
-    src="./assets/contribution-calendar.svg"
-    alt="GitHub contribution calendar"
-    width="100%"
-  />
-</p>
 ---
 
 <h2 align="center">ABOUT ME</h2>
