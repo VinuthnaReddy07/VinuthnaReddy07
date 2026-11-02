@@ -1,137 +1,98 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:09090f,40:312e81,75:6d28d9,100:0891b2&text=VINUTHNA%20REDDY%20MALLU&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=BUILDING%20AI.%20ENGINEERING%20AGENTS.%20SHIPPING%20CODE.&descAlignY=60&descSize=15&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B1A,40:312E81,75:6D28D9,100:0891B2&height=210&section=header&text=VINUTHNA%20REDDY%20MALLU&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=BUILD%20%20%7C%20%20INNOVATE%20%20%7C%20%20DEPLOY&descSize=16&descAlignY=62"/>
 
-### `Generative AI Engineer` · `Agentic AI` · `RAG` · `AWS` · `Python`
+# Generative AI Engineer
+### Agentic AI · RAG · LLM Engineering · AWS · Python
 
-**Turning ideas into intelligent systems, one commit at a time.**
+**Turning ideas into intelligent solutions.**
 
 <br/>
 
 <a href="https://github.com/VinuthnaReddy07">
-<img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/malluvinuthnareddy">
-<img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:malluvinuthnareddy0708@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://vinuthnareddymallu-portfolio.lovable.app/">
 <img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Designing+Agentic+AI+Systems;Building+RAG+Pipelines+%26+LLM+Applications;Experimenting+with+Local+LLM+Fine-Tuning;Developing+Cloud-Native+AI+Solutions;Learning+by+Building.+Growing+by+Shipping."/>
-
 </div>
 
 ---
-
-<div align="center">
-
-## ⚡ THE ENGINEERING SPACE
-
-`THINK` → `BUILD` → `EXPERIMENT` → `EVALUATE` → `DEPLOY`
-
-</div>
-
-### 👩‍💻 A little about what I build
-
-I'm a Generative AI Engineer interested in the engineering behind intelligent applications.
-
-My GitHub is where I explore ideas, build prototypes, experiment with frameworks, and turn concepts into working implementations.
-
-- 🤖 Building LLM applications and autonomous AI agents.
-- 🔍 Experimenting with RAG, embeddings and intelligent retrieval.
-- ☁️ Developing AI solutions using AWS and Azure.
-- 🧠 Exploring model fine-tuning, evaluation and MLOps.
-- 🔐 Implementing secure AI systems and responsible AI practices.
-
-**Current interests:** Agentic workflows · MCP · RAG optimization · Local LLMs · AI infrastructure.
-
----
-
-## 🚀 PROJECT LAB
-
-<text align="center"></text>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="32%" valign="top">
 
-### 🔐 01. RBAC-RAG
+## 👩‍💻 ABOUT
 
-**Secure Document Intelligence**
+Generative AI Engineer focused on building intelligent applications and cloud-based AI solutions.
 
-A full-stack RAG application with department-level document access and local LLM inference.
+**Building with**
 
-`Python` `FastAPI` `React` `ChromaDB` `Ollama`
+- LLM Applications
+- Agentic AI Systems
+- RAG Pipelines
+- AI Automation
+- Cloud Architecture
+- Secure AI Solutions
 
-- Metadata-based retrieval filtering
-- JWT and OAuth2 authentication
-- Phi-3 Mini local inference
-- Department-specific document access
+**Currently exploring**
 
-**[Explore repositories →](https://github.com/VinuthnaReddy07?tab=repositories)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 02. MULTI-AGENT AI
-
-**Coffee Shop Automation**
-
-A supervisor-agent architecture coordinating specialized AI agents using Amazon Bedrock.
-
-`AWS Bedrock` `Strands SDK` `MCP` `Python`
-
-- Five specialized domain agents
-- Supervisor orchestration
-- Tool integrations
-- RAG-powered contextual responses
-
-**[View Source Code →](https://github.com/VinuthnaReddy07/Multi-Agent-Generative-AI-System-on-AWS)**
+- LLM Fine-Tuning
+- MCP Integrations
+- Advanced RAG
+- Multi-Agent Systems
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="68%" valign="top">
 
-### ⚙️ 03. ECS FARGATE CI/CD
+## ⭐ FEATURED REPOSITORIES
 
-**Automated Cloud Deployment**
+### 🔐 RBAC-RAG Document Intelligence
 
-Containerized application deployment with automated CI/CD and blue-green releases.
+Secure enterprise document retrieval with department-level permissions and local LLM inference.
 
-`Docker` `ECS` `ECR` `CodePipeline`
+`FastAPI` `React` `ChromaDB` `Ollama` `JWT`
 
-- Automated image builds
-- Immutable container images
-- Blue-green deployment
-- Deployment rollback workflows
+[Explore My Repositories →](https://github.com/VinuthnaReddy07?tab=repositories)
 
-**[Explore repositories →](https://github.com/VinuthnaReddy07?tab=repositories)**
+---
 
-</td>
-<td width="50%" valign="top">
+### 🤖 Multi-Agent Coffee Shop Automation
 
-### ☁️ 04. AZURE AI PIPELINE
+Supervisor-agent architecture coordinating five specialized agents using Amazon Bedrock and Strands SDK.
 
-**Intelligent Invoice Processing**
+`Bedrock` `Strands SDK` `MCP` `DynamoDB` `Lambda`
 
-Event-driven document processing architecture using Azure AI services.
+[View Repository →](https://github.com/VinuthnaReddy07/Multi-Agent-Generative-AI-System-on-AWS)
 
-`Azure Functions` `Event Grid` `Python` `Bicep`
+---
 
-- Document extraction
-- Event-driven processing
-- Managed Identity
-- Azure SQL integration
+### ⚙️ ECS Fargate CI/CD
 
-**[Explore repositories →](https://github.com/VinuthnaReddy07?tab=repositories)**
+Containerized application deployment with automated CI/CD and blue-green deployment.
+
+`Docker` `ECS` `ECR` `CodePipeline` `CodeDeploy`
+
+[Explore My Repositories →](https://github.com/VinuthnaReddy07?tab=repositories)
+
+---
+
+### ☁️ Azure AI Invoice Processing
+
+Event-driven invoice processing with intelligent document extraction and serverless workflows.
+
+`Azure Functions` `Event Grid` `Document Intelligence` `Azure SQL`
+
+[Explore My Repositories →](https://github.com/VinuthnaReddy07?tab=repositories)
 
 </td>
 </tr>
@@ -139,32 +100,95 @@ Event-driven document processing architecture using Azure AI services.
 
 ---
 
-## 🧪 CURRENTLY IN THE LAB
-
-Things I'm experimenting with beyond my main projects.
-
-| Experiment | Focus | Technologies |
-|---|---|---|
-| Financial LLM Fine-Tuning | Instruction tuning, LoRA, evaluation | GPT-2, PyTorch, Transformers |
-| Secure AI Agents | Guardrails, PII protection | Bedrock, Lambda |
-| SageMaker MLOps | Model training and registry | SageMaker, S3 |
-| Data Drift Monitoring | Monitoring and retraining | CloudWatch, SNS, Lambda |
-| XGBoost Experiments | Model training and tuning | SageMaker, XGBoost |
-| Distributed Data Processing | Data engineering | Spark, EMR |
-
-**More experiments:** [GitHub Repositories](https://github.com/VinuthnaReddy07?tab=repositories)
-
----
-
-## 🛠️ MY TECH TOOLBOX
+## 📊 GITHUB AT A GLANCE
 
 <div align="center">
 
-### LANGUAGES
+<a href="https://github.com/VinuthnaReddy07">
+<img src="https://github-readme-stats.vercel.app/api?username=VinuthnaReddy07&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8&text_color=FFFFFF&rank_icon=github&include_all_commits=true" height="175"/>
+</a>
+<a href="https://github.com/VinuthnaReddy07">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinuthnaReddy07&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&langs_count=8" height="175"/>
+</a>
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,sql,bash&theme=dark"/>
+<br/><br/>
 
-### AI / ML / GENAI
+<img width="75%" src="https://streak-stats.demolab.com?user=VinuthnaReddy07&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=38BDF8&currStreakLabel=A78BFA"/>
+
+</div>
+
+---
+
+## 🧪 EXPERIMENTS & BUILDS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Financial LLM Fine-Tuning
+
+- Instruction dataset preparation
+- GPT-2 model fine-tuning
+- Full fine-tuning and LoRA
+- Model evaluation and inference
+
+`Python` `PyTorch` `Transformers` `LoRA`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Secure AI Agents
+
+- Amazon Bedrock Guardrails
+- Prompt injection protection
+- PII masking
+- Content moderation
+
+`AWS Bedrock` `Guardrails` `Lambda`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 SageMaker MLOps
+
+- Model training and evaluation
+- Model Registry
+- Data drift monitoring
+- Automated retraining
+
+`SageMaker` `S3` `CloudWatch` `SNS`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Data Engineering
+
+- Data preprocessing
+- Feature engineering
+- Distributed processing
+- XGBoost model training
+
+`Python` `Spark` `EMR` `SageMaker`
+
+</td>
+</tr>
+</table>
+
+[VIEW ALL PROJECTS AND EXPERIMENTS →](https://github.com/VinuthnaReddy07?tab=repositories)
+
+---
+
+## 🛠️ TECH STACK
+
+<div align="center">
+
+### PROGRAMMING
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,java&theme=dark"/>
+
+### GENERATIVE AI & MACHINE LEARNING
 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangGraph-6D28D9?style=for-the-badge"/>
@@ -173,51 +197,25 @@ Things I'm experimenting with beyond my main projects.
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
 
-### CLOUD & INFRASTRUCTURE
+### CLOUD PLATFORMS
 
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=aws,azure&theme=dark"/>
 
-### BACKEND & DATA
+**AWS:** Bedrock · SageMaker · Lambda · S3 · DynamoDB · Aurora · ECS · OpenSearch
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,react,postgres,mongodb,redis&theme=dark"/>
+**Azure:** Functions · Blob Storage · Event Grid · Document Intelligence · Azure SQL
 
-</div>
+### FRAMEWORKS & DATABASES
 
-**Also working with:** Amazon Bedrock · SageMaker · Lambda · DynamoDB · Aurora · OpenSearch · ChromaDB · Snowflake · Azure Functions · Azure AI Document Intelligence · GitHub Actions.
+<img src="https://skillicons.dev/icons?i=fastapi,flask,react,postgres,mongodb,redis,docker,git,github&theme=dark"/>
 
----
-
-## 📈 GITHUB COMMAND CENTER
-
-<div align="center">
-
-### Contribution Overview
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=VinuthnaReddy07&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=22d3ee&area=true&hide_border=true&custom_title=Code%20Activity%20%26%20Contributions"/>
-
-<br/>
-
-### Repository Statistics
-
-<a href="https://github.com/VinuthnaReddy07">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=VinuthnaReddy07&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee&text_color=c9d1d9&rank_icon=github&include_all_commits=true"/>
-</a>
-
-<a href="https://github.com/VinuthnaReddy07">
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinuthnaReddy07&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8"/>
-</a>
-
-<br/><br/>
-
-### Contribution Streak
-
-<img width="65%" src="https://streak-stats.demolab.com?user=VinuthnaReddy07&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA"/>
+**Also:** ChromaDB · Snowflake · OpenSearch Serverless · SQLAlchemy · REST APIs · GitHub Actions
 
 </div>
 
 ---
 
-## 🏆 CERTIFICATIONS & LEARNING
+## 🏆 CERTIFICATIONS
 
 <div align="center">
 
@@ -229,54 +227,39 @@ Things I'm experimenting with beyond my main projects.
 
 </div>
 
-- AWS Educate – Machine Learning Foundations
-- HackerRank – SQL Basic and Intermediate
-- Kaggle – Python Certification
-
 ---
 
-## 🌱 WHAT'S NEXT?
+## 📌 CURRENT FOCUS
 
-```python
-class AIEngineer:
-
-    def __init__(self):
-        self.focus = [
-            "Agentic AI",
-            "Advanced RAG",
-            "LLM Fine-Tuning",
-            "MCP Integrations",
-            "AWS AI Architecture"
-        ]
-
-        self.mindset = "Learn by building"
-
-    def next_step(self):
-        return "Build something better than yesterday."
-```
+| Area | Exploring |
+|---|---|
+| Agentic AI | Multi-agent orchestration |
+| RAG | Hybrid retrieval and reranking |
+| LLMs | Fine-tuning and evaluation |
+| Cloud AI | AWS and Azure AI services |
+| AI Security | Guardrails and secure retrieval |
 
 ---
 
 <div align="center">
 
-## 🤝 LET'S BUILD SOMETHING INTELLIGENT
+## 🤝 LET'S CONNECT & BUILD
 
-**Open to collaborating on Generative AI, Agentic AI, RAG and Cloud AI projects.**
+**Interested in AI engineering, open-source collaboration and intelligent applications.**
 
 <br/>
 
 <a href="mailto:malluvinuthnareddy0708@gmail.com">
-<img src="https://img.shields.io/badge/LET'S_TALK-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/MAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/VinuthnaReddy07?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE_MY_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-**Build. Break. Learn. Repeat.**
+**BUILD. EXPERIMENT. SHIP. REPEAT.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:09090f,40:312e81,75:6d28d9,100:0891b2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B1A,40:312E81,75:6D28D9,100:0891B2&height=120&section=footer"/>
 
 </div>
